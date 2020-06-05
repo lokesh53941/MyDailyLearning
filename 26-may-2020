@@ -1,1 +1,27 @@
-
+git hub
+git is "version control system"tool
+and also "source code management "tool both are same
+version control system-to maintain multiple version of a file or directory(different tasks or different versions at different time)
+version control system tool maintain the  changes made between different time and different persons
+version control system:free:-
+  1.svn
+  2.git
+version control system:paid:-
+ 3.stash
+ 4.p4
+ 5.clear case
+ 6.bit keeper
+2-4 years bacK tool used:SVN
+present tool:GIT
+USES OF GIT:-
+1.every project is independent
+2.git want net when we move central repository
+3. less disk space and high performance
+4.distributed version control system
+5.back up can take from client system
+6.easy to find error
+DEVELOPMENT PROCESS
+we need to create a directory
+  command:-mkdir directoryname
+now using git to track above created directory
+we need to initialize git
