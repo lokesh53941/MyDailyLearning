@@ -1,0 +1,36 @@
+Preview of the 10 Apps
+There will be 10 interesting Python applications that we will build together in this course. Below you can find some screenshots of the apps. Please note that the tutorial of the first app starts in section 13. Sections 1 to 12 cover the basics of Python. If you know the basics already feel free to jump to section 13.
+
+1. Command-line-based Interactive English Dictionary
+
+
+2. Web Maps on the Browser
+
+
+3. Python Blocker of Distracting Websites
+
+
+
+
+4. Portfolio Website
+
+
+5. Desktop Bookstore App
+
+
+6. Webcam Motion Detector and Plotter
+
+
+7. Web scraping Program
+
+
+
+
+8. Data Visualizer on the Browser
+
+
+9. Web App with Database Backend and Email Sending Feature
+
+
+10. Web App with Download-Upload Feature
+
