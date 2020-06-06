@@ -33,4 +33,5 @@ There will be 10 interesting Python applications that we will build together in 
 
 
 10. Web App with Download-Upload Feature
-
+------------------------------------------------------------------
+instaling python in mac,windows,linux
