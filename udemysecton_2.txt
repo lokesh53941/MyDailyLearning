@@ -1,0 +1,11 @@
+Python 3 and the Visual Studio Code IDE is used in the videos, but you can use any IDE.
+
+The Python interactive shell (shown with >>>) is a quick way to execute Python code to see how it works.
+
+Python programs are written in .py files.
+
+You can make a program that shows the current date and time using these lines of code:
+
+import datetime
+x = datetime.datetime.now()
+print(x)
