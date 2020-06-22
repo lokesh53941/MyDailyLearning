@@ -1,0 +1,20 @@
+In this section:
+
+i can read an existing file with Python:
+
+with open("file.txt") as file:
+    content = file.read()
+i can create a new file with Python and write some text on it:
+
+with open("file.txt", "w") as file:
+    content = file.write("Sample text")
+i can append text to an existing file without overwriting it:
+
+with open("file.txt", "a") as file:
+    content = file.write("More sample text")
+1 can both append and read a file with:
+
+with open("file.txt", "a+") as file:
+    content = file.write("Even more sample text")
+    file.seek(0)
+    content = file.read()
