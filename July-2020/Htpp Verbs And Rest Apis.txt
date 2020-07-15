@@ -1,0 +1,18 @@
+http verbs:-
+------------
+he HTTP verbs comprise a major portion of our “uniform interface” constraint and provide us the action counterpart to the noun-based resource.
+ The primary or most-commonly-used HTTP verbs (or methods, as they are properly called) are 
+ POST,
+ GET,
+ PUT,
+ PATCH, and DELETE.
+rest api:-
+----------
+ A REST API works in a similar way. ... It stands for “Representational State Transfer”.
+ It is a set of rules that developers follow when they create their API.
+ One of these rules states that you should be able to get a piece of data (called a resource) when you link to a specific URL.
+ recursive function:-
+ -------------------
+ A recursive function is a function that calls itself during its execution.
+ This enables the function to repeat itself several times, outputting the result and the end of each iteration.
+ Below is an example of a recursive function. ... The result could be used as a roundabout way to subtract the number from 10.

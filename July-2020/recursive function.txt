@@ -1,0 +1,5 @@
+ recursive function:-
+ -------------------
+ A recursive function is a function that calls itself during its execution.
+ This enables the function to repeat itself several times, outputting the result and the end of each iteration.
+ Below is an example of a recursive function. ... The result could be used as a roundabout way to subtract the number from 10.
