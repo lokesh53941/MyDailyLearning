@@ -1,0 +1,100 @@
+checkin
+checkout
+git version control - commit , push  --- pull
+branches
+environments
+frontend, backend
+
+debugging
+Database
+
+regular expression - task 
+
+IDE - Integreated development environment - 
+vs code -  react js,  angular, python, javascript, html
+ eclipse - java 
+ Visual studio  -  .net, c#
+
+100%  to 10%
+40 to  50%
+
+
+naming conventions - Pascal case, camel case, 
+1. File names
+2. Variable names
+
+case sensitive  - 
+
+Helloo helloo 
+
+hello Hello
+-----
+04 june 2020
+
+task - find the count of files in a folder - create new repository
+task - print all files in  afolder - separate repostiory  - fodler name (path) should be dynamic
+udemy 1-4 sections
+Arrange array of numbers to form a single large number - [2,5,7,0,9] - 97520 >(75092, 25709)
+  [8,7,5,0,3] => 87530
+  
+  
+05 June 2020  
+------------------
+task - find the count of files in a folder - create new repository
+code commit is pending - task - print all files in  afolder - separate repostiory  - fodler name (path) should be dynamic
+udemy programs commmit to github - update learned items in github
+udemy 5 to 8
+Arrange array of numbers to form a single large number - [2,5,7,0,9] - 97520 >(75092, 25709) - commit the code handle -ve values (convert negative values to positive)
+d
+June 20, 2020
+-----
+1. Program  to find the large number
+2. Udemy 11 to 12
+3. create one txt file with below data
+   Hi how are you
+
+
+June 23, 2020
+---------------------
+ 1. create one txt file with below data - file name should be text-06-23-2020:10:12
+   Hi how are you
+
+2. Udemy 13 ,, 14
+33. copy paste pdf file in the same folder   
+ 
+ 
+June 28, 2020
+------
+1. Udemy 15, 16
+2. copy paste pdf file in the same folder   
+3. algorithm binary search, --need to check
+4. what is binary search tree?how to find the height of binary search tree - need to check
+ 
+July 04, 2020 
+------------
+1. Udemy 15, 16 
+
+
+July 06, 2020
+------------
+1. Udemy 16, 17
+2. copy paste pdf file in the same folder - input will be original path of the file. Make a copy in the same folder.
+3. how to find the height of binary search tree - program
+
+
+
+July 08, 2020
+-----------
+1. Udemy 18, 19
+2. copy paste pdf file in the same folder - input will be original path of the file. Make a copy in the same folder.
+3. how to find the height of binary search tree - program
+
+
+July 11,2020
+------------------------
+1. Learn about http verbs, rest apis, install postman or google rest client, find one free rest apis online and hit them from postman or google rest client
+2. download 4 years syllabus
+3. Udemy 20,21
+4. copy paste pdf file in the same folder - input will be original path of the file. Make a copy in the same folder.
+5. Recursive functions
+

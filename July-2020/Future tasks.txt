@@ -1,0 +1,3 @@
+1. Building rest apis in python
+2. Connecting to db sql or mongodb
+3. html, css basics
